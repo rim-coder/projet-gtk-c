@@ -129,7 +129,24 @@ structures_app.exe
 
 ## 🖼️ Captures d'écran
 
-*À venir*
+### Page d'Accueil
+![Accueil](screenshots/accueil.png)
+
+### Module Tableaux
+![Interface de Tri](screenshots/tableaux_tri.png)
+
+![Comparaison des Algorithmes](screenshots/tableaux_comparaison.png)
+
+![Courbes de Performance](screenshots/tableaux_courbes.png)
+
+### Module Listes Chaînées
+![Listes Chaînées](screenshots/listes.png)
+
+### Module Arbres
+![Arbres Binaires](screenshots/arbres.png)
+
+### Module Graphes
+![Graphes](screenshots/graphes.png)
 
 ---
 
